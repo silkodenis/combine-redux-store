@@ -22,7 +22,7 @@ Combine Redux Store is a lightweight package for state management in SwiftUI and
 - **watchOS**: watchOS 6.0+
 - **tvOS**: tvOS 13.0+
 
-To add the package to your project, use Swift Package Manager:
+### To add the package to your project, use Swift Package Manager:
 
 1. Open Xcode and select “File” > “Add Packages…”
 2. Enter the URL of the package repository.
