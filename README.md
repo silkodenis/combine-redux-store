@@ -30,7 +30,7 @@ Combine Redux Store is a lightweight package for state management in SwiftUI and
 
 ## Usage Example
 
-See https://github.com/silkodenis/swiftui-moviesdb-redux-app
+- [SwiftUI App](https://github.com/silkodenis/swiftui-moviesdb-redux-app)
 
 ## License
 This project is licensed under the [Apache License, Version 2.0](LICENSE).
