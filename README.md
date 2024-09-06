@@ -3,12 +3,12 @@
 
 # Combine Redux Store
 
-Combine Redux Store is a lightweight package for state management in SwiftUI and Combine applications, designed for unidirectional data flow (UDF) architectures. It provides a unified state management mechanism along with support for state-driven asynchronous side effects.
+Combine Redux Store is a lightweight package for state management in SwiftUI and Combine applications, designed for unidirectional data flow (UDF) architectures. It provides a unified state management mechanism along with support for data-driven side effects.
 
 ## Key Features
 
 - **State Management:** Utilizes a unified model for state and actions similar to Redux.
-- **Asynchronous Effects:** Supports state-driven asynchronous side-effects via Feedback mechanisms, ensuring that effects are triggered based on state changes.
+- **Asynchronous Effects:** Supports asynchronous data-driven side-effects via Feedback mechanisms, ensuring that effects are triggered based on state changes.
 - **Combine Support:** Leverages powerful data stream handling and reactive programming with Combine.
 
 ## Installation
