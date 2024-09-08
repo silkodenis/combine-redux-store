@@ -1,6 +1,6 @@
 import XCTest
 import Combine
-@testable import CombineReduxStore
+@testable import CombineStore
 
 final class FeedbackTests: XCTestCase {
     var cancellables = Set<AnyCancellable>()

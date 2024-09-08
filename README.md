@@ -1,9 +1,9 @@
 [![License](https://img.shields.io/github/license/silkodenis/combine-redux-store.svg)](https://github.com/silkodenis/combine-redux-store/blob/main/LICENSE)
 ![swift](https://github.com/silkodenis/combine-redux-store/actions/workflows/swift.yml/badge.svg?branch=main)
 
-# Combine Redux Store
+# Combine Store
 
-Combine Redux Store is a lightweight package for state management in SwiftUI and Combine applications, designed for unidirectional data flow (UDF) architectures. It provides a unified state management mechanism along with support for data-driven side effects.
+Combine Store is a lightweight package for state management in SwiftUI and Combine applications, designed for unidirectional data flow (UDF) architectures. It provides a unified state management mechanism along with support for data-driven side effects.
 
 ## Key Features
 

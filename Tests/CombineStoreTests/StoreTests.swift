@@ -1,6 +1,6 @@
 import XCTest
 import Combine
-@testable import CombineReduxStore
+@testable import CombineStore
 
 final class StoreTests: XCTestCase {
     private var cancellables: Set<AnyCancellable>!

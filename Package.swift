@@ -3,20 +3,20 @@
 import PackageDescription
 
 let package = Package(
-    name: "CombineReduxStore",
+    name: "CombineStore",
     platforms: [
             .macOS(.v10_15), .iOS(.v13), .tvOS(.v13), .watchOS(.v6)
         ],
     products: [
         .library(
-            name: "CombineReduxStore",
-            targets: ["CombineReduxStore"]),
+            name: "CombineStore",
+            targets: ["CombineStore"]),
     ],
     targets: [
         .target(
-            name: "CombineReduxStore"),
+            name: "CombineStore"),
         .testTarget(
-            name: "CombineReduxStoreTests",
-            dependencies: ["CombineReduxStore"]),
+            name: "CombineStoreTests",
+            dependencies: ["CombineStore"]),
     ]
 )
